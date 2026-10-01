@@ -1,0 +1,2 @@
+-- [FTAP Noob]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizFTAP/Noobhub/refs/heads/main/FTAP%20Scripts.lua"))()
